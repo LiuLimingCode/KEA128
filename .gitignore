@@ -1,0 +1,17 @@
+*.crf
+*.map
+*.lst
+*.d
+*.o
+*.axf
+*.htm
+*.sct
+*.lnp
+*.hex
+*.dep
+*.__i
+*.DELL
+JLinkLog.txt
+*.dbgconf
+EventRecorderStub.scvd
+*.iex
