@@ -1,15 +1,15 @@
 /*********************************************************************************************************************
  * COPYRIGHT NOTICE
- * Copyright (c) 2017,��ɿƼ�
+ * Copyright (c) 2017,逐飞科技
  * All rights reserved.
- * ��������QQȺ��179029047
+ * 技术讨论QQ群：179029047
  *
- * �����������ݰ�Ȩ������ɿƼ����У�δ����������������ҵ��;��
- * ��ӭ��λʹ�ò������������޸�����ʱ���뱣����ɿƼ��İ�Ȩ������
+ * 以下所有内容版权均属逐飞科技所有，未经允许不得用于商业用途，
+ * 欢迎各位使用并传播本程序，修改内容时必须保留逐飞科技的版权声明。
  *
- * @file       		ͷ�ļ�
- * @company	   		�ɶ���ɿƼ����޹�˾
- * @author     		��ɿƼ�(QQ3184284598)
+ * @file       		头文件
+ * @company	   		成都逐飞科技有限公司
+ * @author     		逐飞科技(QQ3184284598)
  * @version    		v2.0
  * @Software 		IAR 7.7 or MDK 5.23
  * @Target core		S9KEA128AMLK
@@ -24,7 +24,7 @@
 #include "KEA128_port_cfg.h"
 #include "stdio.h"
 
-//--------������--------
+//--------函数库--------
 #include "KEA128_ftm.h"
 #include "KEA128_pit.h"
 #include "KEA128_gpio.h"
